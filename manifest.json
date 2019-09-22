@@ -2,7 +2,7 @@
     "name": "New Reddit Redirect",
     "author": "Erisa Arrowsmith",
     "description": "Ensure Reddit always loads your preferred design (Mostly designed for New)",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "manifest_version": 2,
     "background": {"scripts":["background.js"]},
     "icons": {
@@ -13,6 +13,7 @@
       "webRequest",
       "webRequestBlocking",
       "*://old.reddit.com/*",
-      "*://new.reddit.com/*"
+      "*://new.reddit.com/*",
+      "*://np.reddit.com/*"
     ]
   }
