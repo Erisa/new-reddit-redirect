@@ -11,5 +11,5 @@ The name is a play on the original code's name and because the author of this mo
 
 ## License
 
-[Original code](https://github.com/tom-james-watson/old-reddit-redirect) copyright Tom Watson. Code released under [the MIT license](LICENSE.txt).
+[Original code](https://github.com/tom-james-watson/old-reddit-redirect) copyright Tom Watson. Code released under [the MIT license](LICENSE.txt).  
 Modified code copyright Erisa Arrowsmith. Code released under [the MIT license](LICENSE.txt).
